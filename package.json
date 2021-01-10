@@ -6,7 +6,7 @@
         "test": "jest"
     },
     "license": "MIT",
-    "devDpendencies": {
+    "devDependencies": {
         "jest": "^26.1.0"
     }
 }
