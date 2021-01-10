@@ -10,7 +10,7 @@ describe("fizzbuzz", () => {
     });
 
     it("returns Buzz when value is divisibel by 5", () => {
-        expect(fizzbuzz(9)).toStrictEqual("Buzz");
+        expect(fizzbuzz(5)).toStrictEqual("Buzz");
     });
 
     it("returns the value when value is not divisible by 3 or 5", () => {
